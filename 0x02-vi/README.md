@@ -1,0 +1,1 @@
+I love answering Vim questions using emacs!
